@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.414 6.414">
+  <g id="arrow" transform="translate(10.707 0.707) rotate(90)">
+    <line id="line" x2="5" y2="5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1"/>
+    <line id="line-2" data-name="line" y1="5" x2="5" transform="translate(0 5)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
